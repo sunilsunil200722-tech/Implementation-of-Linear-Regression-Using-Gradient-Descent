@@ -82,7 +82,7 @@ RegisterNumber:  212225040440
 
 
 ## Output:
-<img width="860" height="636" alt="Screenshot 2026-01-27 091856" src="https://github.com/user-attachments/assets/d6b62baf-06f9-4244-89c0-c096fe78307c" />
+![WhatsApp Image 2026-01-30 at 2 18 04 PM](https://github.com/user-attachments/assets/0135679f-593c-4b8a-bbcb-eccbe8632a49)
 
 
 
