@@ -89,8 +89,7 @@ RegisterNumber:  212225040440
 
 
 ## Output:
-![WhatsApp Image 2026-01-30 at 2 18 04 PM](https://github.com/user-attachments/assets/0135679f-593c-4b8a-bbcb-eccbe8632a49)
-
+![WhatsApp Image 2026-01-30 at 2 18 04 PM](https://github.com/user-attachments/assets/2e528608-f65e-464c-aede-bc101f501f7f)
 
 
 ## Result:
