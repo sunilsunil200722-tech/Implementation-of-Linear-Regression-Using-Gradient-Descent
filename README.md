@@ -86,13 +86,10 @@ print("Final bias (b):", b)
 Program to implement the linear regression using gradient descent.
 Developed by: Sunil Kumar R
 RegisterNumber:  212225040440
-
+```
 
 ## Output:
-<img width="1260" height="536" alt="Screenshot 2026-01-30 141735" src="https://github.com/user-attachments/assets/b167f83c-e4d8-4e6f-815c-b261a60cdc05" />
-
-
-
+<img width="1260" height="536" alt="Screenshot 2026-01-30 141735" src="https://github.com/user-attachments/assets/8f204600-fde4-4cd3-8cc3-b81fb0b85b71" />
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
