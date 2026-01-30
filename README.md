@@ -14,6 +14,7 @@ To write a program to predict the profit of a city using the linear regression m
 4. 
 
 ## Program:
+```
 import numpy as np
 import matplotlib.pyplot as plt
 
